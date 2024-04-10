@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python
 - - 💞️ I’m trying which language i can perfect
 - 📫 How to reach me 
-- you can reach me wirebee.vyk@gmail.com
+- 
 - 
 
 <!---
